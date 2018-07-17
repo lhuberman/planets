@@ -1,1 +1,1 @@
-# BIDS Software compentry git lesson
+# BIDS Software Carpentry git lesson
